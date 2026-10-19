@@ -1,0 +1,33 @@
+song_id,song_name,artist,tempo,energy,valence,danceability,acousticness,genre
+s1,Channa Mereya,Arijit Singh,90,0.79,0.75,0.48,0.24,bollywood
+s2,Radhimaa,Sai Abhyankkar,136,0.85,0.51,0.43,0.14,tamil
+s3,Thankakutta,Anoop Sankar,93,0.84,0.83,0.74,0.18,malayalam
+s4,Lovely,Vishal-Shekhar,112,0.92,0.67,0.51,0.08,bollywood
+s5,Chorkk,MBL_,95,0.82,0.49,0.63,0.06,other
+s6,Nafs,MBL_,89,0.80,0.25,0.51,0.01,other
+s7,Pesamale,Siri Xander,186,0.79,0.62,0.30,0.56,other
+s8,Soch Na Sake,Arijit Singh,152,0.67,0.52,0.51,0.60,bollywood
+s9,Naal Nachna,Shashwat Sachdev,140,0.72,0.83,0.79,0.11,punjabi
+s10,Jaiye Sajana,Shashwat Sachdev,80,0.62,0.27,0.76,0.22,punjabi
+s11,Paaraa,Anirudh Ravichander,117,0.95,0.28,0.60,0.32,tamil
+s12,Mathara,Jakes Bejoy,146,0.67,0.46,0.56,0.48,malayalam
+s13,Tiranga,B Praak,102,0.50,0.15,0.39,0.44,bollywood
+s14,Vaama Vaama,Thaman S,87,0.54,0.17,0.49,0.73,tamil
+s15,Shaadi Masti,Hanan Shaah,140,0.79,0.64,0.71,0.43,malayalam
+s16,Insaanile,Jubair Muhammed,180,0.55,0.57,0.60,0.41,malayalam
+s17,Naan Aval Illai,Yuvan Shankar Raja,130,0.63,0.36,0.63,0.35,tamil
+s18,Pavazha Malli,Sai Abhyankkar,139,0.80,0.75,0.48,0.41,tamil
+s19,Aaro Nee Aaro,K. J. Yesudas,105,0.44,0.47,0.61,0.60,malayalam
+s20,Raavana Mavandaa,Anirudh Ravichander,100,0.97,0.26,0.78,0.45,tamil
+s21,3 Peg,Sharry Mann,168,0.93,0.79,0.69,0.14,punjabi
+s22,Lutt Le Gaya,Shashwat Sachdev,122,0.77,0.12,0.73,0.46,bollywood
+s23,Meri Zindagi Hai Tu,Asim Azhar,88,0.49,0.54,0.63,0.90,bollywood
+s24,Satakli,Vishal-Shekhar,102,0.91,0.66,0.77,0.12,bollywood
+s25,Thodi Der,Farhan Saeed,90,0.46,0.43,0.52,0.90,bollywood
+s26,Zaalima,Arijit Singh,88,0.90,0.49,0.65,0.31,bollywood
+s27,Sajda Ve,Salim-Sulaiman,87,0.63,0.54,0.42,0.62,punjabi
+s28,Bulleya,Pritam,87,0.77,0.70,0.55,0.50,bollywood
+s29,Chinnamma Adi,Jim,137,0.66,0.46,0.80,0.10,malayalam
+s30,First Class,Pritam,136,0.96,0.74,0.47,0.45,bollywood
+s31,Onnaanaam Kunninmele,Vidyasagar,92,0.86,0.95,0.72,0.26,malayalam
+s32,Nera,ARJN,110,0.72,0.80,0.87,0.28,other
