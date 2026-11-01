@@ -3,7 +3,7 @@ Automated Step 1: Loads your own liked songs (my_songs.csv) AND the Kaggle
 dataset (train.csv) into MySQL in one go, then randomly selects 200 Kaggle
 songs for labelling. Run this single script instead of doing things manually.
 
-Usage: python 1_load_data.py
+Usage: python load_data.py
 """
 import pandas as pd
 import pymysql
@@ -11,7 +11,7 @@ import os
 
 DB_PASSWORD = 'root'   # <-- your MySQL root password
 KAGGLE_CSV = 'train.csv'
-MY_SONGS_CSV = 'my_songs.csv'
+MY_SONGS_CSV = 'data/my_songs.csv'
 SAMPLE_SIZE = 200
 MAX_KAGGLE_SONGS = 1000
 
