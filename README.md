@@ -52,17 +52,13 @@ Configure your local MySQL database and set the `DB_PASSWORD` environment variab
 ## Author
 Mohammed Arshad NH
 ##  Project Structure
-
-...
+```text
 Music-taste-fingerprint/
-│
 ├── data/
 │   └── my_songs.csv
-│
 ├── images/
 │   ├── taste_fingerprint.png
 │   └── liked_vs_skipped.png
-│
 ├── src/
 │   ├── export_results.py
 │   ├── labeling_app.py
@@ -70,6 +66,4 @@ Music-taste-fingerprint/
 │   ├── music_platform.py
 │   ├── music_predict.py
 │   └── taste_analysis.py
-│
 └── README.md
-...
