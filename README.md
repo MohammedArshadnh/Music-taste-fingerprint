@@ -26,10 +26,10 @@ Random Forest Classifier
 The model uses features such as tempo, energy, valence, danceability, and acousticness to predict music preferences.
 
 ## Project Files
-- `1_load_data.py` – Loads music data
-- `2_labeling_app.py` – Labels songs
-- `3_taste_analysis.py` – Analyzes music preferences
-- `5_music_platform.py` – Music platform interface
+- `load_data.py` – Loads music data
+- `labeling_app.py` – Labels songs
+- `taste_analysis.py` – Analyzes music preferences
+- `music_platform.py` – Music platform interface
 - `music_predict.py` – Machine Learning prediction
 - `export_results.py` – Exports results
 - `my_songs.csv` – Song dataset
